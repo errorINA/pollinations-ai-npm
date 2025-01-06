@@ -1,0 +1,13 @@
+{
+  "name": "pollinations-ai",
+  "version": "1.0.0",
+  "description": "Use Pollinations AI in your next project via node.js.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "errorINA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/errorINA/pollinations-ai-npm"
+  }
+}
