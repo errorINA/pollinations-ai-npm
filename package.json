@@ -1,0 +1,24 @@
+{
+  "name": "pollinations-ai",
+  "version": "1.0.0",
+  "description": "Pollinations.AI is the most easy-to-use, free text and image generation API available. No signups or API keys required. We prioritize your privacy with zero data storage and completely anonymous usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "free",
+    "ai",
+    "openai",
+    "chatgpt",
+    "anthropic",
+    "claude"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/errorINA/pollinations-ai-npm.git"
+  },
+  "author": "errorINA",
+  "license": "ISC"
+}
